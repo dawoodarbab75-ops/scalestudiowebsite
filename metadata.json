@@ -1,0 +1,5 @@
+{
+  "name": "thescalestudio",
+  "description": "A high-fidelity recreation of the Framer Wallet Template using React, Tailwind, and Framer Motion.",
+  "requestFramePermissions": []
+}
